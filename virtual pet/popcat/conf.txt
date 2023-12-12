@@ -1,0 +1,2 @@
+[Settings]
+resolution = 200x200
