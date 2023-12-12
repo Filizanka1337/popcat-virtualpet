@@ -1,3 +1,8 @@
+# URL Strony
+
+https://filizanka1337.github.io/popcat-virtualpet/
+
+
 # Virtual Pet Program
 
 Virtual Pet Program to przykładowa aplikacja stworzona w języku Python, wykorzystująca bibliotekę tkinter, która umożliwia użytkownikowi interakcję z wirtualnym zwierzątkiem poruszającym się po ekranie.
